@@ -1,0 +1,2 @@
+# Centos7-spark-ultimate-guide
+This guide will walk you trough the following steps, the objective is to set up a fully functional CentOS 7 server for multiple users, with Hadoop HDFS file system, yarn resource manager and spark engine for data-processing on top; Some steps will be optional and some will be mandatory to assure system functionality. At the beginning of each chapter we will notify you if there are required steps before you proceed, to ensure that everything works fine.
